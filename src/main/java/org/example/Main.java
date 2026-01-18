@@ -18,6 +18,9 @@ public class Main {
 
         System.out.println("jebac disa");
 
+        for (int i = 0; i < 45; i++){
+            System.out.println(i);
+        }
 
     }
 }
